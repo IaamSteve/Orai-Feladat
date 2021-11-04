@@ -1,1 +1,3 @@
 # Orai-Feladat
+
+#..,.,..
